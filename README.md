@@ -2,6 +2,24 @@
 
 Work-in-progress research codebase for text-conditioned floorplan generation with diffusion models.
 
+This paper is published in *Automation in Construction*: https://www.sciencedirect.com/science/article/pii/S0926580526002785
+
+```bibtex
+@article{zhang2026textplan,
+  title   = {Text-conditioned irregular floorplan generation via composable inpainting diffusion},
+  author  = {Zhang, Hang and Savov, Anton and Dillenburger, Benjamin},
+  journal = {Automation in Construction},
+  volume  = {190},
+  pages   = {107037},
+  year    = {2026},
+  month   = {October},
+  issn    = {0926-5805},
+  doi     = {10.1016/j.autcon.2026.107037},
+  url     = {https://www.sciencedirect.com/science/article/pii/S0926580526002785},
+  publisher = {Elsevier}
+}
+```
+
 ## Project Summary
 
 This repository currently contains two main codebases:
