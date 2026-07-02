@@ -1,6 +1,6 @@
 # TextPLAN
 
-Work-in-progress research codebase for text-conditioned floorplan generation with diffusion models.
+Research codebase for text-conditioned floorplan generation with diffusion models.
 
 This paper is published in *Automation in Construction*: https://www.sciencedirect.com/science/article/pii/S0926580526002785
 
