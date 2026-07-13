@@ -100,6 +100,8 @@ pip install -r tell2design_prompt_augmentor/requirements.txt
 
 ## Data Preparation (SwissDwellings-style)
 
+This research uses a dataset prepared from [MaskLayout](https://github.com/HangZhangZ/MaskLayout).
+
 `TextPLAN/preprocessing.py` provides `DataPreparationPipeline` for converting vector JSON layouts into training samples.
 
 Expected processed output structure:
